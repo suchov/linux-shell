@@ -23,4 +23,4 @@ Vagrant.configure(2) do |config|
     config.vm.box = "jasonc/centos7"
 end
 
-
+Last - https://www.udemy.com/course/linux-shell-scripting-projects/learn/lecture/7980558#overview
